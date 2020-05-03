@@ -11,6 +11,7 @@ namespace WebApplication4.Controllers
         // GET: Default
         public ActionResult Index()
         {
+            string str = "Hellow welcome here..";
             return View();
         }
     }
